@@ -7,5 +7,5 @@ mi primer repositorio
 
 
 *prueba2 de mezclar ramas*
-***git estos son cambiossss vvvvvvv ***
+***git que errrores tan grandesgit  ***
 
